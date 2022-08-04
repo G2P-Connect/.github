@@ -1,4 +1,4 @@
-## Welcome to G2P Unboxed
+## Welcome to G2P Unboxed - a Joint Initiative
 
 Over the past few years, we have seen promising advancements across technology and policy that, brought together, have the potential to meet the need for G2P payments to adopt a whole of government approach keeping recipients at the centre Open source communities worldwide are developing appropriate software that constitute core pieces of the G2P payments infrastructure.
 
