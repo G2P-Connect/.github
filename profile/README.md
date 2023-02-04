@@ -12,7 +12,7 @@ Following are the current partners in this effort, hope to see more joining in!
 <div align="center">
   <img src="https://github.com/G2P-Connect/.github/blob/main/open-effort.jpg"
        alt="Current Partner Logos"
-       width="50%" height="50%"
+       width="100%" height="100%"
   />
 </div>
 
