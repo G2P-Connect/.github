@@ -10,7 +10,7 @@ There are many point solutions, especially within the Digital Public Goods (DPG)
 
 Following are the current partners in this effort, hope to see more joining in!
 <div align="center">
-  <img src="https://github.com/G2P-Connect/.github/blob/main/open-effort.png"
+  <img src="https://github.com/G2P-Connect/.github/blob/main/about-g2p-connect.png"
        alt="Current Partner Logos"
        width="100%" height="100%"
   />
