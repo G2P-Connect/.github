@@ -8,12 +8,14 @@ There are many point solutions, especially within the Digital Public Goods (DPG)
 
 > ### This is an  open source effort to offer an integrated G2P solution blueprint and design templates using a plug-and-play architecture to enable choice of components, a set of integration specifications to ensure interoperability, a design that addresses privacy & security, along with an integration sandbox for various systems/products to build solutions adhering to the blueprint and specifications to offer a well architected and interoperable G2P solution.
 
-Following are the current partners in this effort, hope to see more joining in!
+***
+
 <div align="center">
   <img src="https://github.com/G2P-Connect/.github/blob/main/about-g2p-connect.png"
        alt="Current Partner Logos"
        width="100%" height="100%"
   />
 </div>
+
 
 All of you are most welcome to join the effort, read [documentation](https://github.com/G2P-Connect/common/tree/main/docs), [collaborate](https://github.com/G2P-Connect/.github/discussions), leverage, and [contribute](https://github.com/G2P-Connect/.github/blob/main/CONTRIBUTING.md)! 
